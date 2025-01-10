@@ -1,0 +1,6 @@
+,EmpId,Name,Age,Dept,Salary,Start_Date,Performance,Hobbies,YearWithCompany,RollingAbgSalary,SalaryRank,Name_Upper,FullName
+4,5,E,40,IT,55000.0,2019-03-08,Average,"['Cooking', 'Crafting']",5,44333.333333333336,5.0,e,E Good
+3,4,D,30,HR,30000.0,2018-02-10,Excellent,"['Music', 'Travalling']",6,41000.0,1.0,d,D Excellent
+2,3,C,35,Finance,45000.0,2017-07-15,Ok,['Singing'],7,47666.666666666664,3.0,c,C Ok
+1,2,B,25,IT,45000.0,2016-05-23,Fine,"['Sports', 'Photography']",8,,2.0,b,B Fine
+0,1,A,20,HR,50000.0,2015-01-01,Average,"['Reading', 'Sleeping']",10,,4.0,a,A Good
