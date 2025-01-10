@@ -1,6 +1,6 @@
 import pandas as pd
 
-path='C:/Users/Shadia/OneDrive/Desktop/L/Machine Learning/CsvData/bank-KNN.csv'
+path='bank-KNN.csv'
 print("Basic use:")
 data=pd.read_csv(path,sep=';')
 print(data.head())
